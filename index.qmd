@@ -113,8 +113,8 @@ This allows respondents who do not use a particular source to provide an accurat
 
 ## Published HTML Report
 
-[Published HTML Report](PASTE-YOUR-GITHUB-PAGES-LINK-HERE)
+[Published HTML Report](https://kebachez.github.io/Qualtrics-Assignment-2---Experimental-Design/)
 
 ## GitHub Repository
 
-[GitHub Repository](<https://github.com/kebachez/Qualtrics-Assignment-2---Experimental-Design.git>)
+[GitHub Repository](https://github.com/kebachez/Qualtrics-Assignment-2---Experimental-Design.git)
